@@ -6,6 +6,9 @@ A design thinking document is [here](https://docs.google.com/document/d/1OIxdmAM
 * https://github.com/KnowledgeGarden/tqos-asr2-document-agent
 * https://github.com/KnowledgeGarden/tqos-asr-hypothesis-agent
 * https://github.com/KnowledgeGarden/tqos-asr2-sentence-agent
+* https://github.com/KnowledgeGarden/tqos-asr2-biomedical-sentence-agent
 * https://github.com/KnowledgeGarden/tqos-asr2-tuple-agent
 * https://github.com/KnowledgeGarden/tqos-asr-spacy-agents
-* https://github.com/KnowledgeGarden/tqos-asr2-tuple-agent
+* https://github.com/KnowledgeGarden/tqos-asr2-paragraph-server
+* https://github.com/KnowledgeGarden/tqos-asr2-paragraph-client
+* https://github.com/KnowledgeGarden/tqos-asr2-processed-paragraph-agent
